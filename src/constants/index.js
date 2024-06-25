@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 
 export const HERO_CONTENT = `I am a passionate software developer skilled in crafting innovative solutions that merge technology with practical applications. With expertise in React, Node.js, MongoDB, and more, I specialize in delivering user-centric applications like OpenPost, CloudPoint, and HelloWorld. Certified in AWS Application Development, I am eager to contribute to teams driving impactful software solutions.`;
 
-export const ABOUT_TEXT = `"I am a dedicated and adaptable software developer passionate about creating efficient and intuitive web applications. Equipped with a Bachelor of Technology in Computer Science Engineering from Chandigarh Engineering College, I have cultivated expertise in technologies such as React, Node.js, MongoDB, and more. My portfolio includes projects like OpenPost, CloudPoint, and HelloWorld, demonstrating my ability to deliver user-friendly solutions that enhance experiences. Eager to contribute to innovative teams and continuously expand my skills in software development.`;
+export const ABOUT_TEXT = `I am a dedicated and adaptable software developer passionate about creating efficient and intuitive web applications. Equipped with a Bachelor of Technology in Computer Science Engineering from Chandigarh Engineering College, I have cultivated expertise in technologies such as React, Node.js, MongoDB, and more. My portfolio includes projects like OpenPost, CloudPoint, and HelloWorld, demonstrating my ability to deliver user-friendly solutions that enhance experiences. Eager to contribute to innovative teams and continuously expand my skills in software development.`;
 
 export const EXPERIENCES = [
   {
