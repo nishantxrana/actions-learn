@@ -7,19 +7,24 @@ export const ABOUT_TEXT = `I am a dedicated and adaptable software developer pas
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
-    role: "MERN Stack Developer Intern",
-    company: "Grazitti Interactive",
-    description: `Gained hands-on experience in developing full-stack applications using MongoDB, Express, React.js, and Node.js. Implemented RESTful APIs, real-time data processing with Socket.io, and state management using Redux. Collaborated with cross-functional teams to deliver software solutions and learned best practices in agile development.`,
-    technologies: [
-      "MongoDB",
-      "Express",
-      "React.js",
-      "Node.js",
-      "Socket.io",
-      "Redux",
-    ],
-  },
+  "year": "Sep 2024 - Present",
+  "role": "DevOps Intern",
+  "company": "Grazitti Interactive",
+  "description": "Gained hands-on experience in implementing and managing cloud-based solutions using Azure Cloud Services. Worked on migrating on-premises resources to Azure, ensuring seamless transition and optimal performance. Developed and optimized CI/CD pipelines for automated deployments and ensured seamless integration of code. Worked extensively with Kubernetes for container orchestration, Azure App Service, Function App, Logic App, and Azure Container Registry (ACR). Implemented Docker for containerization and facilitated scalable, reliable application deployments. Collaborated with cross-functional teams to enhance infrastructure and streamline DevOps workflows while adhering to agile methodologies.",
+  "technologies": [
+    "Azure Cloud Services",
+    "Azure DevOps",
+    "CI/CD Pipelines",
+    "Kubernetes",
+    "Azure App Service",
+    "Function App",
+    "Logic App",
+    "Azure Container Registry (ACR)",
+    "Docker",
+    "JavaScript",
+    "React"
+    ]
+  }
 ];
 
 export const PROJECTS = [
